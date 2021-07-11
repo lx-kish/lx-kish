@@ -1,4 +1,4 @@
-### [<Alexander Kish/>][website]
+### [<Alexander Kish />][website]
 
 
 [website]: https://lx-kish.github.io/personal-web-page/
