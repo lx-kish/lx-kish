@@ -1,4 +1,7 @@
-### <[AlexanderKish][website] webDeveloper, softwareEngineer/>
+### <[AlexanderKish][website]
+###      webDeveloper,
+###      softwareEngineer
+### />
 
 
 [website]: https://lx-kish.github.io/personal-web-page/
